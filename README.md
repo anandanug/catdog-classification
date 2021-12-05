@@ -1,4 +1,4 @@
-# Deployment Model ANN (Cat vs Dog)
+# Deployment Model ANN (Cat atau Dog)
 
 ## Deskripsi singkat
 
